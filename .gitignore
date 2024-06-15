@@ -1,0 +1,6 @@
+node_modules
+.husky
+commitlint.config.js
+.env
+*-old.tsx
+*.old
